@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/pacellijr/stravaWrap/issues"
   },
+  "engines":{
+    "node":"6.10.2"
+  },
+  ,
   "homepage": "https://github.com/pacellijr/stravaWrap#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
