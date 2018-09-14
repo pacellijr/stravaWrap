@@ -8,6 +8,9 @@ var msgSchema = new Schema({
    body: {
       type: String
    },
+   conteudo: {
+      type: String
+   },
    Created_date: {
       type: Date,
       default: Date.now
